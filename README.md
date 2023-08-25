@@ -6,6 +6,11 @@ Welcome to my homelab repository! This is where I share the configuration and se
 
 My homelab setup includes a range of services, containers, and virtual machines. Here's a glimpse of what you'll find:
 
+### Network
+1. Vlan seperation for home,lab,storage,kids networks
+2. 10Gb core network
+3. Unifi UDMP/APs
+
 ### LXC Containers
 
 1. **Cloudflare**: Containerized setup for Cloudflare services to enhance security and performance.
